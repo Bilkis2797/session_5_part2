@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-10T21:26:05 CST" name="Default suite" finished-at="2022-12-10T21:26:12 CST" duration-ms="7173">
+    <groups>
+    </groups>
+    <test started-at="2022-12-10T21:26:05 CST" name="Default test" finished-at="2022-12-10T21:26:12 CST" duration-ms="7173">
+      <class name="VariousConcept.CrmTest">
+        <test-method is-config="true" signature="readConfig()[pri:0, instance:VariousConcept.CrmTest@3e84448c]" started-at="2022-12-10T21:26:05 CST" name="readConfig" finished-at="2022-12-10T21:26:05 CST" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method is-config="true" signature="init()[pri:0, instance:VariousConcept.CrmTest@3e84448c]" started-at="2022-12-10T21:26:05 CST" name="init" finished-at="2022-12-10T21:26:07 CST" duration-ms="2731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="negLoginText()[pri:1, instance:VariousConcept.CrmTest@3e84448c]" started-at="2022-12-10T21:26:07 CST" name="negLoginText" finished-at="2022-12-10T21:26:08 CST" duration-ms="795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- negLoginText -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:VariousConcept.CrmTest@3e84448c]" started-at="2022-12-10T21:26:08 CST" name="teardown" finished-at="2022-12-10T21:26:08 CST" duration-ms="149" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="init()[pri:0, instance:VariousConcept.CrmTest@3e84448c]" started-at="2022-12-10T21:26:08 CST" name="init" finished-at="2022-12-10T21:26:10 CST" duration-ms="2203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="loginTest()[pri:2, instance:VariousConcept.CrmTest@3e84448c]" started-at="2022-12-10T21:26:10 CST" name="loginTest" finished-at="2022-12-10T21:26:12 CST" duration-ms="1156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:VariousConcept.CrmTest@3e84448c]" started-at="2022-12-10T21:26:12 CST" name="teardown" finished-at="2022-12-10T21:26:12 CST" duration-ms="96" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- VariousConcept.CrmTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
